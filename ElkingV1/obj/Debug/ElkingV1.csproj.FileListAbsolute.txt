@@ -1,0 +1,17 @@
+c:\users\mocka-pc\documents\visual studio 2012\Projects\ElkingV1\ElkingV1\bin\Debug\ElkingV1.exe.config
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\bin\Debug\ElkingV1.exe
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\bin\Debug\ElkingV1.pdb
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.csprojResolveAssemblyReference.cache
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.frmlogin.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.frmMainMenu.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.Properties.Resources.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.csproj.GenerateResource.Cache
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.exe
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.pdb
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.Startup.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.Suppliers.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.SupplierLookUP.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.SupplierInvoice.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.SuplliersBalances.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.SupplierReturns.resources
+C:\Users\Mocka-PC\Documents\Visual Studio 2012\Projects\ElkingV1\ElkingV1\obj\Debug\ElkingV1.DailyDealings.resources
